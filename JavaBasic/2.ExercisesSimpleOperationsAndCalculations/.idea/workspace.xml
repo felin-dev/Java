@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e71e0ee-804c-4c52-8b65-3cfa4603c358" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WIKOGRohwYycgCYx1KxTLw3moT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.CharityCampaign">
+    <configuration name="CharityCampaign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharityCampaign" />
+      <module name="3.BasicCalculations" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DancingHall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DancingHall" />
+      <module name="3.BasicCalculations" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadiantsToDegrees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RadiantsToDegrees" />
+      <module name="3.BasicCalculations" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TailoringWorkshop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TailoringWorkshop" />
+      <module name="3.BasicCalculations" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="3.BasicCalculations" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CharityCampaign" />
+        <item itemvalue="Application.DancingHall" />
+        <item itemvalue="Application.TailoringWorkshop" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.RadiantsToDegrees" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e71e0ee-804c-4c52-8b65-3cfa4603c358" name="Default Changelist" comment="" />
+      <created>1578831634219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578831634219</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="#Live_Templates" timestamp="1578832385135">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="0" y="0" key="#Live_Templates/0.0.1366.738@0.0.1366.738" timestamp="1578832385135" />
+    <state width="639" height="182" key="GridCell.Tab.0.bottom" timestamp="1579116610696">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="639" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1579116610696" />
+    <state width="639" height="182" key="GridCell.Tab.0.center" timestamp="1579116610695">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="639" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1579116610695" />
+    <state width="639" height="182" key="GridCell.Tab.0.left" timestamp="1579116610695">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="639" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1579116610695" />
+    <state width="639" height="182" key="GridCell.Tab.0.right" timestamp="1579116610695">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="639" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1579116610695" />
+    <state x="721" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1579110063447">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="721" y="194" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1579110063447" />
+    <state x="694" y="167" key="run.anything.popup" timestamp="1578831935544">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="694" y="167" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1578831935544" />
+  </component>
+</project>
