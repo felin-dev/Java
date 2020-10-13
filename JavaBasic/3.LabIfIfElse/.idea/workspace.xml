@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee1b5f52-a617-45a3-b7e8-ec902cca1041" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WZHJatLb0qvodgfOiOXFdMdohh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.AreaOfObjects">
+    <configuration name="AreaOfObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AreaOfObjects" />
+      <module name="3.LabIfIfElse" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuessThePassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GuessThePassword" />
+      <module name="3.LabIfIfElse" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Numbers100to200" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Numbers100to200" />
+      <module name="3.LabIfIfElse" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToyStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ToyStore" />
+      <module name="3.LabIfIfElse" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrueOrFalse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TrueOrFalse" />
+      <module name="3.LabIfIfElse" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AreaOfObjects" />
+        <item itemvalue="Application.ToyStore" />
+        <item itemvalue="Application.TrueOrFalse" />
+        <item itemvalue="Application.GuessThePassword" />
+        <item itemvalue="Application.Numbers100to200" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED,SHOW_NON_PUBLIC,SHOW_FIELDS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee1b5f52-a617-45a3-b7e8-ec902cca1041" name="Default Changelist" comment="" />
+      <created>1579350126325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579350126325</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="181" key="GridCell.Tab.0.bottom" timestamp="1579365972799">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="181" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1579365972799" />
+    <state width="1323" height="181" key="GridCell.Tab.0.center" timestamp="1579365972799">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="181" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1579365972799" />
+    <state width="1323" height="181" key="GridCell.Tab.0.left" timestamp="1579365972799">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="181" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1579365972799" />
+    <state width="1323" height="181" key="GridCell.Tab.0.right" timestamp="1579365972799">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="181" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1579365972799" />
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1579365962845">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1579365962845" />
+    <state width="1323" height="227" key="GridCell.Tab.1.center" timestamp="1579365962844">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1579365962844" />
+    <state width="1323" height="227" key="GridCell.Tab.1.left" timestamp="1579365962844">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1579365962844" />
+    <state width="1323" height="227" key="GridCell.Tab.1.right" timestamp="1579365962845">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1579365962845" />
+    <state x="734" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1579350132104">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="734" y="194" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1579350132104" />
+    <state x="5" y="145" key="extract.method.dialog" timestamp="1579365145208">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="5" y="145" key="extract.method.dialog/0.0.1366.738@0.0.1366.738" timestamp="1579365145208" />
+    <state x="701" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1579362490190">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="701" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1579362490190" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TrueOrFalse.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
