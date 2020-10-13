@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="530d6b75-f98d-46ff-a7cc-868f7340e484" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XAksNerA6hJIHT2kfTwdqwe0OG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.SkiTrip">
+    <configuration name="DayOfWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DayOfWeek" />
+      <module name="4.LabAdvancedChecks" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FruitShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FruitShop" />
+      <module name="4.LabAdvancedChecks" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SkiTrip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SkiTrip" />
+      <module name="4.LabAdvancedChecks" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SmallShop" />
+      <module name="4.LabAdvancedChecks" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TradeCommissions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TradeCommissions" />
+      <module name="4.LabAdvancedChecks" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SkiTrip" />
+        <item itemvalue="Application.TradeCommissions" />
+        <item itemvalue="Application.FruitShop" />
+        <item itemvalue="Application.SmallShop" />
+        <item itemvalue="Application.DayOfWeek" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="530d6b75-f98d-46ff-a7cc-868f7340e484" name="Default Changelist" comment="" />
+      <created>1580496492836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580496492836</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="#Live_Templates" timestamp="1580506843710">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="0" y="0" key="#Live_Templates/0.0.1366.738@0.0.1366.738" timestamp="1580506843710" />
+    <state width="1323" height="233" key="GridCell.Tab.0.bottom" timestamp="1580508272290">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="233" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1580508272290" />
+    <state width="1323" height="233" key="GridCell.Tab.0.center" timestamp="1580508272289">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="233" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1580508272289" />
+    <state width="1323" height="233" key="GridCell.Tab.0.left" timestamp="1580508272289">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="233" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1580508272289" />
+    <state width="1323" height="233" key="GridCell.Tab.0.right" timestamp="1580508272289">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="233" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1580508272289" />
+    <state width="1323" height="233" key="GridCell.Tab.1.bottom" timestamp="1580508272291">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="233" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1580508272291" />
+    <state width="1323" height="233" key="GridCell.Tab.1.center" timestamp="1580508272290">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="233" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1580508272290" />
+    <state width="1323" height="233" key="GridCell.Tab.1.left" timestamp="1580508272290">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="233" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1580508272290" />
+    <state width="1323" height="233" key="GridCell.Tab.1.right" timestamp="1580508272290">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="233" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1580508272290" />
+    <state x="379" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1580541041138">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="379" y="194" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1580541041138" />
+    <state x="754" y="125" key="extract.method.dialog" timestamp="1580502609727">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="754" y="125" key="extract.method.dialog/0.0.1366.738@0.0.1366.738" timestamp="1580502609727" />
+    <state x="687" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1580507125467">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="687" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1580507125467" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SmallShop.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SkiTrip.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SkiTrip.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SkiTrip.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SkiTrip.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
