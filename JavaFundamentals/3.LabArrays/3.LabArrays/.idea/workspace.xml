@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="277605a9-d5d8-45b0-9721-25b73268b26a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="185" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1codHDITHverHWolV3rg7rJF6S7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.ArrayToNumber">
+    <configuration name="ArrayToNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayToNumber" />
+      <module name="3.LabArrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EqualArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EqualArrays" />
+      <module name="3.LabArrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvenAndOddSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EvenAndOddSum" />
+      <module name="3.LabArrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvenAndOddSumVerTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EvenAndOddSumVerTwo" />
+      <module name="3.LabArrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseArray" />
+      <module name="3.LabArrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrayToNumber" />
+        <item itemvalue="Application.EqualArrays" />
+        <item itemvalue="Application.EvenAndOddSumVerTwo" />
+        <item itemvalue="Application.EvenAndOddSum" />
+        <item itemvalue="Application.ReverseArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="277605a9-d5d8-45b0-9721-25b73268b26a" name="Default Changelist" comment="" />
+      <created>1591198789775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591198789775</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="783" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591199405095">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="783" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1591199405095" />
+    <state x="820" y="255" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591451846607">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="820" y="255" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.738@0.0.1366.738" timestamp="1591451846607" />
+    <state width="639" height="226" key="GridCell.Tab.0.bottom" timestamp="1591456566008">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="639" height="226" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1591456566008" />
+    <state width="639" height="226" key="GridCell.Tab.0.center" timestamp="1591456566007">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="639" height="226" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1591456566007" />
+    <state width="639" height="226" key="GridCell.Tab.0.left" timestamp="1591456566007">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="639" height="226" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1591456566007" />
+    <state width="639" height="226" key="GridCell.Tab.0.right" timestamp="1591456566008">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="639" height="226" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1591456566008" />
+    <state width="639" height="226" key="GridCell.Tab.1.bottom" timestamp="1591456566009">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="639" height="226" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1591456566009" />
+    <state width="639" height="226" key="GridCell.Tab.1.center" timestamp="1591456566009">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="639" height="226" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1591456566009" />
+    <state width="639" height="226" key="GridCell.Tab.1.left" timestamp="1591456566008">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="639" height="226" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1591456566008" />
+    <state width="639" height="226" key="GridCell.Tab.1.right" timestamp="1591456566009">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="639" height="226" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1591456566009" />
+    <state x="379" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1592246666210">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="379" y="194" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1592246666210" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/3_LabArrays$ReverseArray.ic" NAME="ReverseArray Coverage Results" MODIFIED="1591207790002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
