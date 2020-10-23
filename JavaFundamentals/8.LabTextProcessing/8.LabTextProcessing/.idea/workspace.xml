@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c30e8698-3bc6-4c8d-86b5-156f8cb270d0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ejGtKTLG8t3F0UCE9dLRPdzwcH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.RemoveString">
+    <configuration name="DigitsLettersAndOthers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DigitsLettersAndOthers" />
+      <module name="9.TextProcessing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RemoveString" />
+      <module name="9.TextProcessing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepeatStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RepeatStrings" />
+      <module name="9.TextProcessing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseStrings" />
+      <module name="9.TextProcessing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextFilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TextFilter" />
+      <module name="9.TextProcessing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RemoveString" />
+        <item itemvalue="Application.ReverseStrings" />
+        <item itemvalue="Application.DigitsLettersAndOthers" />
+        <item itemvalue="Application.TextFilter" />
+        <item itemvalue="Application.RepeatStrings" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c30e8698-3bc6-4c8d-86b5-156f8cb270d0" name="Default Changelist" comment="" />
+      <created>1594827801774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594827801774</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="775" y="100" width="499" height="538" key="DiffContextDialog" timestamp="1594830355571">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="775" y="100" width="499" height="538" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1594830355571" />
+    <state width="637" height="179" key="GridCell.Tab.0.bottom" timestamp="1594834757404">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="637" height="179" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1594834757404" />
+    <state width="637" height="179" key="GridCell.Tab.0.center" timestamp="1594834757403">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="637" height="179" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1594834757403" />
+    <state width="637" height="179" key="GridCell.Tab.0.left" timestamp="1594834757403">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="637" height="179" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1594834757403" />
+    <state width="637" height="179" key="GridCell.Tab.0.right" timestamp="1594834757404">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="637" height="179" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1594834757404" />
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1594832035206">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1594832035206" />
+    <state width="1323" height="227" key="GridCell.Tab.1.center" timestamp="1594832035205">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1594832035205" />
+    <state width="1323" height="227" key="GridCell.Tab.1.left" timestamp="1594832035205">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1594832035205" />
+    <state width="1323" height="227" key="GridCell.Tab.1.right" timestamp="1594832035205">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1594832035205" />
+    <state x="759" y="202" key="com.intellij.ide.util.TipDialog" timestamp="1595431910028">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="759" y="202" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1595431910028" />
+    <state x="616" y="0" width="540" height="496" key="extract.method.dialog" timestamp="1594833310541">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="616" y="0" width="540" height="496" key="extract.method.dialog/0.0.1366.738@0.0.1366.738" timestamp="1594833310541" />
+  </component>
+</project>
