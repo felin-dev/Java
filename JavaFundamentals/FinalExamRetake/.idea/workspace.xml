@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74bffcdc-20b7-4f8c-82f2-b297c7c9ddae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1g6Tsgz1ZW478T7DeHAMZ8AKxrT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.test">
+    <configuration name="AstraAdAstra_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AstraAdAstra_02" />
+      <module name="FinalExamRetake" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImitationGame_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImitationGame_01" />
+      <module name="FinalExamRetake" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThePianist_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThePianist_03" />
+      <module name="FinalExamRetake" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="FinalExamRetake" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.ThePianist_03" />
+        <item itemvalue="Application.AstraAdAstra_02" />
+        <item itemvalue="Application.ImitationGame_01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74bffcdc-20b7-4f8c-82f2-b297c7c9ddae" name="Default Changelist" comment="" />
+      <created>1597434250433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597434250433</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1182" height="554" key="DiffContextDialog" timestamp="1597479078017">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="92" y="92" width="1182" height="554" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1597479078017" />
+    <state width="639" height="181" key="GridCell.Tab.0.bottom" timestamp="1597479907972">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="639" height="181" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1597479907972" />
+    <state width="639" height="181" key="GridCell.Tab.0.center" timestamp="1597479907972">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="639" height="181" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1597479907972" />
+    <state width="639" height="181" key="GridCell.Tab.0.left" timestamp="1597479907972">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="639" height="181" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1597479907972" />
+    <state width="639" height="181" key="GridCell.Tab.0.right" timestamp="1597479907972">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="639" height="181" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1597479907972" />
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1597475901921">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1597475901921" />
+    <state width="1323" height="227" key="GridCell.Tab.1.center" timestamp="1597475901921">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1597475901921" />
+    <state width="1323" height="227" key="GridCell.Tab.1.left" timestamp="1597475901921">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1597475901921" />
+    <state width="1323" height="227" key="GridCell.Tab.1.right" timestamp="1597475901921">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1597475901921" />
+    <state x="379" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1600181560828">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="379" y="194" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1600181560828" />
+    <state x="481" y="59" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597471604633">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="481" y="59" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.738@0.0.1366.738" timestamp="1597471604633" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1600524267125">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1600524267125" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FinalExamRetake$ImitationGame_01.ic" NAME="ImitationGame_01 Coverage Results" MODIFIED="1597473246993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
