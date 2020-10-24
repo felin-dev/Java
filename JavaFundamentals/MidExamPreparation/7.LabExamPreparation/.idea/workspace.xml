@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="874ff34e-6a67-454e-80b6-ed2f4d927c29" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e5jf6K7UOCTdJZDvBl61QYDY5C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MMORPG.Main" />
+      <module name="7.LabExamPreparation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MMORPG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PasswordResset.Main" />
+      <module name="7.LabExamPreparation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PasswordResset.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PassReset.Main" />
+      <module name="7.LabExamPreparation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PassReset.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FancyBarcodes.Main" />
+      <module name="7.LabExamPreparation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FancyBarcodes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FancyBarcodes.Main" />
+      <module name="7.LabExamPreparation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FancyBarcodes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="874ff34e-6a67-454e-80b6-ed2f4d927c29" name="Default Changelist" comment="" />
+      <created>1593618447205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593618447205</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="216" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1593869841583">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="216" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1593869841583" />
+    <state x="775" y="92" width="499" height="554" maximized="true" key="DiffContextDialog" timestamp="1593896708838">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="775" y="92" width="499" height="554" maximized="true" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1593896708838" />
+    <state width="1323" height="149" key="GridCell.Tab.0.bottom" timestamp="1593896956587">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="149" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1593896956587" />
+    <state width="1323" height="149" key="GridCell.Tab.0.center" timestamp="1593896956587">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="149" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1593896956587" />
+    <state width="1323" height="149" key="GridCell.Tab.0.left" timestamp="1593896956587">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="149" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1593896956587" />
+    <state width="1323" height="149" key="GridCell.Tab.0.right" timestamp="1593896956587">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="149" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1593896956587" />
+    <state width="1323" height="225" key="GridCell.Tab.1.bottom" timestamp="1593896954034">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="225" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1593896954034" />
+    <state width="1323" height="225" key="GridCell.Tab.1.center" timestamp="1593896954034">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="225" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1593896954034" />
+    <state width="1323" height="225" key="GridCell.Tab.1.left" timestamp="1593896954034">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="225" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1593896954034" />
+    <state width="1323" height="225" key="GridCell.Tab.1.right" timestamp="1593896954034">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="225" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1593896954034" />
+    <state x="498" y="304" key="ReplaceDuplicatesPrompt" timestamp="1593807013337">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="498" y="304" key="ReplaceDuplicatesPrompt/0.0.1366.738@0.0.1366.738" timestamp="1593807013337" />
+    <state x="379" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1593935070440">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="379" y="194" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1593935070440" />
+    <state x="658" y="19" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1593724021654">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="658" y="19" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.738@0.0.1366.738" timestamp="1593724021654" />
+    <state x="653" y="111" width="540" height="496" key="extract.method.dialog" timestamp="1593879059391">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="653" y="111" width="540" height="496" key="extract.method.dialog/0.0.1366.738@0.0.1366.738" timestamp="1593879059391" />
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1593853932004">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.738@0.0.1366.738" timestamp="1593853932004" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BlackFlag/Main.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TreasureHunt/Main.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PasswordResset/Main.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PassReset/Main.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FancyBarcodes/Main.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
